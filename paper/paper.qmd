@@ -26,13 +26,14 @@ data <- read_csv(here::here("data/analysis_data/analysis_data.csv"))
 
 # Introduction
 
-You can and should cross-reference sections and sub-sections. We use @talia, @opendatatorotno, and @rohan.
+This paper uses @talia, @opendatatorotno, and @rohan.
 
 The remainder of this paper is structured as follows. @sec-mydatasection
 
 
 
 # Data {#sec-mydatasection}
+here is my data graph about marriages in toronto! you can notice in @fig-marriage how there arent many marriages after 2020. This potentially could be because of COVID-19, but that doesnt explain why it remains low after the effects of COVID died down a bit in the more recent years - more analysis to follow.
 
 Some of our data is of penguins (@fig-marriage), from @palmerpenguins.
 
@@ -62,7 +63,6 @@ And also planes (@fig-planes). (You can change the height and width, but don't w
 If my paper were 10 pages, then should be be at least 2.5 pages. The discussion is a chance to show off what you know and what you learnt from all this. 
 
 ## Second discussion point
-here is my data graph about marriages in toronto! you can notice in @fig-marriage how there arent many marriages after 2020. This potentially could be because of COVID-19, but that doesnt explain why it remains low after the effects of COVID died down a bit in the more recent years - more analysis to follow.
 ## Third discussion point
 
 ## Weaknesses and next steps
