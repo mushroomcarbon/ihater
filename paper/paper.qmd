@@ -1,8 +1,8 @@
 ---
-title: "My title"
-subtitle: "My subtitle if needed"
+title: "Toronto marriages by the months"
+subtitle: "Is the frequency indeed uniform, or is something else going on?"
 author: 
-  - Rohan Alexander
+  - Andrew Goh
 thanks: "Code and data are available at: LINK."
 date: today
 date-format: long
@@ -62,7 +62,7 @@ And also planes (@fig-planes). (You can change the height and width, but don't w
 If my paper were 10 pages, then should be be at least 2.5 pages. The discussion is a chance to show off what you know and what you learnt from all this. 
 
 ## Second discussion point
-
+here is my data graph about marriages in toronto! you can notice in @fig-marriage how there arent many marriages after 2020. This potentially could be because of COVID-19, but that doesnt explain why it remains low after the effects of COVID died down a bit in the more recent years - more analysis to follow.
 ## Third discussion point
 
 ## Weaknesses and next steps
