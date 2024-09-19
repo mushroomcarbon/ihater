@@ -1,9 +1,8 @@
-# Marriages in Toronto before and after the pandemic
+# Frequency of marriages in Toronto on a monthly basis
 
 ## Overview
 
-This repo provides students with a foundation for their own projects associated with *Telling Stories with Data*. You do not need every aspect for every paper and you should delete aspects that you do not need.
-
+This project aims to look at the frequency of marriages in Toronto based on a monthly basis and examine whether the chronological pattern follows the assumption of a uniform distribution.
 
 ## File Structure
 
